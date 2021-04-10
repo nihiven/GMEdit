@@ -1,0 +1,31 @@
+{
+	"": {
+		"treeviewScrollTop": 0,
+		"treeviewOpenNodes": [],
+		"tabPaths": [],
+		"activeTab": null,
+		"mtime": 1617982260815
+	},
+	"D:/dev/Dinky/Dinky/Dinky.yyp": {
+		"treeviewScrollTop": 0,
+		"treeviewOpenNodes": [
+			"Dinky.yyp",
+			"folders/Docs/",
+			"folders/Extensions/GML+/",
+			"folders/Extensions/GML+/Scripts/",
+			"folders/Extensions/GML+/Scripts/File Handling/",
+			"folders/Extensions/GML+/Scripts/File Handling/File System/",
+			"folders/Objects/",
+			"folders/Rooms/",
+			"folders/Scripts/"
+		],
+		"tabPaths": [
+			"D:/dev/Dinky/Dinky/scripts/Game/Game.gml",
+			"D:/dev/Dinky/Dinky/objects/obj_game/obj_game.yy",
+			"D:/dev/Dinky/Dinky/scripts/Macros/Macros.gml",
+			"D:/dev/Dinky/Dinky/scripts/System/System.gml"
+		],
+		"activeTab": 0,
+		"mtime": 1617982267874
+	}
+}

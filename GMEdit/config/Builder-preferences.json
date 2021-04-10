@@ -1,0 +1,17 @@
+{
+    "reuseTab": true,
+    "saveCompile": true,
+    "stopCompile": false,
+    "displayLine": true,
+    "forkArguments": "",
+    "runtimeSettings": {
+        "Stable": {
+            "location": "C:\\ProgramData/GameMakerStudio2/Cache/runtimes/",
+            "selection": "runtime-2.3.2.420"
+        },
+        "Beta": {
+            "location": "C:\\ProgramData/GameMakerStudio2-Beta/Cache/runtimes/",
+            "selection": "runtime-23.1.1.222"
+        }
+    }
+}

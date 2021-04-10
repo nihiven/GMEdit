@@ -1,0 +1,65 @@
+#main .ace-tm {color: #ac647d;} /* && () . : != */
+#main .ace-tm .ace_local {color: #d0cbf8;} /*local variables that have been initialized with var*/
+#main .ace-tm .ace_sublocal {color: #FF99F8;} /**/
+#main .ace-tm .ace_field {color: #b0c8ff;} /*variable owned by other*/
+#main .ace-tm .ace_localfield {color: #B2B1FF;} /*variable owned by self*/ 
+#main .ace-tm .ace_globalfield {color: #f7c8e6;} /*variable that is global*/
+#main .ace-tm .ace_keyword {color: #ffffcc;} /*Switch Case Break Return If Else Until*/
+#main .ace-tm .ace_macro {color: #adfce9;} /*Macro used in code*/
+#main .ace-tm .ace_macroname {color: #adfce9;}  /*Macro Name in "All Configurations"*/
+#main .ace-tm .ace_preproc {color: #8c7195;} /*#define #event* #macro*/
+#main .ace-tm .ace_curly.ace_paren {color: #ac647d;} /*Brackets {} */
+#main .ace-tm .ace_constant {color: #b8dcc1;} /*GM built-in values: c_black true false bm_subtract*/
+#main .ace-tm .ace_numeric {color: #f2e2a2;} /*Basic numbers*/
+#main .ace-tm .ace_string {color: #adfcad;} /*String text*/
+#main .ace-tm .ace_momenttime {color: #f2e2a2;} /*time lines*/
+#main .ace-tm .ace_comment {color: #3a435f;} /*Comments*/
+#main .ace-tm .ace_eventtext {color: #3a435f;} /*Renamed Object Actions*/
+#main .ace-tm .ace_extmacro {color: #ff6251;} /**/
+#main .ace-tm .ace_enum {color: #f1a3d3;} /*Enum Variable*/
+#main .ace-tm .ace_enumfield {color: #b8dcc1;} /*Enum Constant*/
+#main .ace-tm .ace_variable {color: #a48cae;} /*built-in GM variable*/   
+#main .ace-tm .ace_globalvar {color: #f1a3d3;} /**/
+#main .ace-tm .ace_function {color: #f7c6a8;} /*Basic GM Function*/
+#main .ace-tm .ace_extfunction {color: #ff6251;} /**/
+#main .ace-tm .ace_asset.ace_script {color: #ff6251;} /*script()*/
+#main .ace-tm .ace_asset {color: #ff9f9f;} /*objects, sprites*/
+#main .ace-tm .ace_namespace {color: #adfce9;} /**/
+#main .ace-tm .ace_type {color: #ff6251;} /**/
+#main .ace-tm {background-color: #232334;} /*Main background*/
+#main .ace-tm .ace_active-line {background-color: #313142;} /*Current line's background*/
+#main .ace-tm .ace_selection {background-color: #37528f;} /*Selection block background (hold-click and shift selection)*/
+#main .ace-tm .ace_gutter {color: #424864;} /*Gutter number text*/
+#main .ace-tm .ace_gutter {background-color: #28283c;} /*Gutter background*/
+#main .ace-tm .ace_gutter-active-line {background-color: #33334d;} /*Current line's gutter background*/
+#main .ace-tm .ace_error {color: #ff0000;}
+
+#main .ace_gutter-define {color: #ffffff;} /*White # in gutter*/
+
+#main .ace-tm .ace_regionname,
+#main .ace-tm .ace_sectionname,
+#main .ace-tm .ace_momentname,
+#main .ace-tm .ace_scriptname,
+#main .ace-tm .ace_eventkeyname,
+#main .ace-tm .ace_eventname {
+	color: #ffffff;
+	background-color: #4d2f3d;
+	border-bottom: 2px solid red;
+	border-top: 2px solid red;
+	border-right: 2px solid red;
+	border-color: #6b294a;
+}
+#main .ace-tm .ace_line .ace_preproc.ace_define,
+#main .ace-tm .ace_line .ace_preproc.ace_region,
+#main .ace-tm .ace_event {
+	background-color: #4d2f3d;
+	border-bottom: 2px solid red;
+	border-top: 2px solid red;
+	border-left: 2px solid red;
+	border-color: #6b294a;
+}
+#main .ace-tm .ace_line .ace_preproc.ace_section {
+	background-color: #4d2f3d;
+	border: 2px solid red;
+	border-color: #6b294a;
+}

@@ -1,0 +1,5 @@
+{
+  "parentTheme": "dark",
+	"stylesheets": ["rainbowsoup_a.css"],
+	"darkChromeTabs": true
+}

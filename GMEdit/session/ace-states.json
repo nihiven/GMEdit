@@ -1,0 +1,155 @@
+{
+	"null": {
+		"selection": {
+			"start": {
+				"row": 0,
+				"column": 0
+			},
+			"end": {
+				"row": 0,
+				"column": 0
+			},
+			"isBackwards": true
+		},
+		"scrollLeft": 0,
+		"scrollTop": 209.65625,
+		"foldLines": [],
+		"mtime": 1617982134818
+	},
+	"D:/dev/Dinky/Dinky/scripts/System/System.gml": {
+		"selection": {
+			"start": {
+				"row": 210,
+				"column": 0
+			},
+			"end": {
+				"row": 210,
+				"column": 0
+			},
+			"isBackwards": false
+		},
+		"scrollLeft": 0,
+		"scrollTop": 3249.333251953125,
+		"foldLines": [],
+		"mtime": 1617982267873
+	},
+	"D:/dev/Dinky/Dinky/objects/obj_system/obj_system.yy": {
+		"selection": {
+			"start": {
+				"row": 38,
+				"column": 22
+			},
+			"end": {
+				"row": 38,
+				"column": 22
+			},
+			"isBackwards": false
+		},
+		"scrollLeft": 0,
+		"scrollTop": 0,
+		"foldLines": [],
+		"mtime": 1617721133445
+	},
+	"D:/dev/Dinky/Dinky/scripts/Macros/Macros.gml": {
+		"selection": {
+			"start": {
+				"row": 23,
+				"column": 48
+			},
+			"end": {
+				"row": 23,
+				"column": 48
+			},
+			"isBackwards": false
+		},
+		"scrollLeft": 0,
+		"scrollTop": 0,
+		"foldLines": [],
+		"mtime": 1617982267869
+	},
+	"D:/dev/Dinky/Dinky/scripts/Logging/Logging.gml": {
+		"selection": {
+			"start": {
+				"row": 154,
+				"column": 43
+			},
+			"end": {
+				"row": 154,
+				"column": 43
+			},
+			"isBackwards": false
+		},
+		"scrollLeft": 0,
+		"scrollTop": 2395.203125,
+		"foldLines": [],
+		"mtime": 1617730154025
+	},
+	"D:/dev/Dinky/Dinky/objects/obj_game/obj_game.yy": {
+		"selection": {
+			"start": {
+				"row": 21,
+				"column": 25
+			},
+			"end": {
+				"row": 21,
+				"column": 25
+			},
+			"isBackwards": false
+		},
+		"scrollLeft": 0,
+		"scrollTop": 0,
+		"foldLines": [],
+		"mtime": 1617982267869
+	},
+	"D:/dev/Dinky/Dinky/scripts/Game/Game.gml": {
+		"selection": {
+			"start": {
+				"row": 16,
+				"column": 32
+			},
+			"end": {
+				"row": 16,
+				"column": 32
+			},
+			"isBackwards": false
+		},
+		"scrollLeft": 0,
+		"scrollTop": 0,
+		"foldLines": [],
+		"mtime": 1617982267868
+	},
+	"D:/dev/Dinky/Dinky/scripts/Global_Contents/Global_Contents.gml": {
+		"selection": {
+			"start": {
+				"row": 29,
+				"column": 5
+			},
+			"end": {
+				"row": 29,
+				"column": 5
+			},
+			"isBackwards": true
+		},
+		"scrollLeft": 0,
+		"scrollTop": 0,
+		"foldLines": [],
+		"mtime": 1617737060842
+	},
+	"D:/dev/Dinky/Dinky/objects/obj_logging/obj_logging.yy": {
+		"selection": {
+			"start": {
+				"row": 20,
+				"column": 18
+			},
+			"end": {
+				"row": 20,
+				"column": 18
+			},
+			"isBackwards": false
+		},
+		"scrollLeft": 0,
+		"scrollTop": 0,
+		"foldLines": [],
+		"mtime": 1617729931045
+	}
+}
